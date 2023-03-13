@@ -10,3 +10,4 @@ def test_second():
     assert 2 + 2 == 4
 def test_third():
     assert 3 == 3
+str = "Try something crazy second"
