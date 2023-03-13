@@ -4,4 +4,7 @@ def test_first():
 
 
 def test_second():
+    #comment1
+    #comment2
+    #comment3
     assert 2 + 2 == 4
